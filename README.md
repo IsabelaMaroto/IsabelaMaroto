@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1>Hi 👋, I'm Isabela!</h1>
 
-<!--
-**IsabelaMaroto/IsabelaMaroto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I live in <strong>Brazil</strong> <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="16">, I have a degree in <strong>International Relations</strong> 🌎 and I'm currently studying <strong>Front-end Development</strong> 💻. </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me:
+<div>
+	<a href="https://www.linkedin.com/in/isabelamaroto/" rel="nofollow">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  	</a>
+ </div>
+ <hr></hr>
+ <h4>Technologies I love to work with 💻:</h4>
+ <div>
+ 		<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+		<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+		<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+	 	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+	 	<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+	 	<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+	 	<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+	 	<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+	 	<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+ </div>
+ <hr></hr>
+ <div>
+	<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsabelaMaroto&theme=monokai"/>
+</div>
